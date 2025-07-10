@@ -750,9 +750,41 @@
   },
   "bda504d7-849e-4770-891b-d650315e9e81": {
     "status": "processing",
-    "message": "Processing batch 23/38...",
+    "message": "Processing batch 37/38...",
     "created_at": "2025-07-10T18:18:32.193137",
-    "progress": 58,
-    "updated_at": "2025-07-10T18:18:45.614028"
+    "progress": 77,
+    "updated_at": "2025-07-10T18:18:56.610076"
+  },
+  "b385377b-b988-4185-a124-c9c6b4341734": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:19:43.077291",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:19:49.824726",
+    "file_url": "/download-zip/report_Auto Needs_Auto Needs_2025-06-04_3598.zip"
+  },
+  "cf165366-36fb-4d1a-97f4-b5333fe5fbc8": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:19:55.189787",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:20:14.231903",
+    "file_url": "/download-zip/report_Aman Automotive_Aman Automotive_2025-06-04_3597.zip"
+  },
+  "82e91476-de04-4f36-9925-735b03b495c3": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:20:20.925331",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:20:31.810326",
+    "file_url": "/download-zip/report_Dhansri Motocorp_Dhansri Motocorp_2025-06-04_3595.zip"
+  },
+  "0b496eee-75c1-487f-aeba-48d1fec75e25": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:20:58.826650",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:21:08.248083",
+    "file_url": "/download-zip/report_Globe Agencies_Globe Agencies_2025-06-04_3592.zip"
   }
 }
