@@ -612,5 +612,53 @@
     "progress": 100,
     "updated_at": "2025-07-10T17:09:26.703925",
     "file_url": "/download-zip/report_Pashupati Motors_Pashupati Motors_2025-06-12_3799.zip"
+  },
+  "945a86a7-0226-4201-8c18-fe2ca78dffad": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:12:37.288505",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:12:47.251759",
+    "file_url": "/download-zip/report_Avni Motors_Avni Motors_2025-06-11_3781.zip"
+  },
+  "b9e98eb6-4f1b-48de-8629-ffc3389748f2": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:13:09.197932",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:13:30.044093",
+    "file_url": "/download-zip/report_Singla Agencies_Singla Agencies_2025-06-11_3779.zip"
+  },
+  "8da28403-4dd9-4274-94f4-40c5d5b29fcc": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:14:38.388166",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:14:47.229402",
+    "file_url": "/download-zip/report_Metro Motors_Metro Motors_2025-06-11_3777.zip"
+  },
+  "bd623325-2e2b-412d-a8dd-4e763abc4570": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:15:11.060448",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:15:17.084890",
+    "file_url": "/download-zip/report_Singla Automobiles_Singla Automobiles_2025-06-11_3775.zip"
+  },
+  "6cd72329-24c7-40e3-9e71-9bec8e993be0": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:15:34.434911",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:15:41.237396",
+    "file_url": "/download-zip/report_Upper India_Upper India_2025-06-11_3773.zip"
+  },
+  "28f1ccf0-c4cf-4767-8bf1-1cc75fa77fbe": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:15:41.453408",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:15:51.459079",
+    "file_url": "/download-zip/report_Sapphire Bikes_Sapphire Bikes_2025-06-11_3772.zip"
   }
 }
