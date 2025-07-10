@@ -685,18 +685,74 @@
     "file_url": "/download-zip/report_Sappire Bikes_Sappire Bikes_2025-06-04_3615.zip"
   },
   "cf2fc873-3dc5-440f-b3c7-6f50eb0cc918": {
-    "status": "processing",
-    "message": "Processing batch 8/10...",
-    "created_at": "2025-07-10T18:10:46.345751",
-    "progress": 65,
-    "updated_at": "2025-07-10T18:10:52.406272"
-  },
-  "0e2e27f8-1b32-437c-b091-ea98129560d8": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T18:11:48.299285",
+    "created_at": "2025-07-10T18:10:46.345751",
     "progress": 100,
-    "updated_at": "2025-07-10T18:12:05.779238",
-    "file_url": "/download-zip/report_Singla Automobiles_Singla Automobiles_2025-06-04_3609.zip"
+    "updated_at": "2025-07-10T18:10:55.902510",
+    "file_url": "/download-zip/report_Avni Motors_Avni Motors_2025-06-04_3611.zip"
+  },
+  "b32cf6fd-6911-4ac8-a202-8ff7ba9f1677": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:11:38.564255",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:11:46.426099",
+    "file_url": "/download-zip/report_Metro Motors_Metro Motors_2025-06-04_3610.zip"
+  },
+  "6a44b29a-2a8b-4789-9857-feaca6d28173": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:15:51.520531",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:15:57.559314",
+    "file_url": "/download-zip/report_Upper India_Upper India_2025-06-04_3608.zip"
+  },
+  "376a8d82-141b-4632-9a43-2c72bf24048f": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:16:33.300717",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:16:40.079146",
+    "file_url": "/download-zip/report_Khanna Automobiles_Khanna Automobiles_2025-06-04_3606.zip"
+  },
+  "05507c8f-1d3c-4e95-87ba-09ff6ed2e0a4": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:16:46.613897",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:16:53.510188",
+    "file_url": "/download-zip/report_Ess Aay Agencies_Ess Aay Agencies_2025-06-04_3605.zip"
+  },
+  "1765bc35-2a50-4887-8652-5f80f8ac07f2": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:17:09.820837",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:17:18.176949",
+    "file_url": "/download-zip/report_Himgiri Delhi_Himgiri Delhi_2025-06-04_3603.zip"
+  },
+  "55d76cc2-3c91-486d-9b5b-e1190f64e4af": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:17:48.583862",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:17:56.243123",
+    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-06-04_3602.zip"
+  },
+  "54d77fbc-b732-4fe2-befa-651292bcbf16": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T18:18:17.919486",
+    "progress": 100,
+    "updated_at": "2025-07-10T18:18:25.109076",
+    "file_url": "/download-zip/report_Jaasodha Autos_Jaasodha Autos_2025-06-04_3600.zip"
+  },
+  "bda504d7-849e-4770-891b-d650315e9e81": {
+    "status": "processing",
+    "message": "Processing batch 23/38...",
+    "created_at": "2025-07-10T18:18:32.193137",
+    "progress": 58,
+    "updated_at": "2025-07-10T18:18:45.614028"
   }
 }
