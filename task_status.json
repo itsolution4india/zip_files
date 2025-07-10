@@ -166,308 +166,236 @@
     "progress": 0,
     "updated_at": "2025-07-10T15:31:41.121225"
   },
-  "1bad8cb1-0a45-4bcc-af84-7eca2c404465": {
+  "d56af78e-3bb9-49b0-b25b-569fb1aaab33": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T15:41:07.665185",
+    "created_at": "2025-07-10T15:38:40.619747",
     "progress": 100,
-    "updated_at": "2025-07-10T15:41:11.658975",
-    "file_url": "/download-zip/report_JAASODHA AUTO PVT LTD_JAASODHA AUTO PVT LTD_2025-06-15_3928.zip"
+    "updated_at": "2025-07-10T15:38:44.748762",
+    "file_url": "/download-zip/report_UPPER INDIA TRADING CO. PV. LTD_UPPER INDIA TRADING CO. PV. LTD_2025-06-15_3937.zip"
   },
-  "8153693e-e731-4514-ac11-be4f795593d1": {
+  "46390e7a-c031-4511-8f5e-dc7772a6c61d": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T15:48:56.011096",
+    "created_at": "2025-07-10T15:54:45.699883",
     "progress": 100,
-    "updated_at": "2025-07-10T15:49:09.435599",
-    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
-  },
-  "064d7c7a-38e8-43d1-b958-a3073f4b7700": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T15:54:38.151338",
-    "progress": 100,
-    "updated_at": "2025-07-10T15:54:43.076072",
-    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-15_3931.zip"
-  },
-  "3c5b5410-9406-41dc-8155-73534424f0c6": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T15:54:51.323314",
-    "progress": 100,
-    "updated_at": "2025-07-10T15:55:05.098035",
-    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
-  },
-  "9a766759-22e6-4814-81ca-a7d83b1fce50": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:02:45.454465",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:02:52.414981",
-    "file_url": "/download-zip/report_AMAN MOTORS_AMAN MOTORS_2025-06-15_3941.zip"
-  },
-  "b33291e7-b0eb-4a90-b890-9eea4a3569f7": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:02:58.288318",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:03:03.246753",
-    "file_url": "/download-zip/report_SHARMA AGENCIES_SHARMA AGENCIES_2025-06-15_3940.zip"
-  },
-  "7a0ec974-046d-4fc1-a2ae-615b3b0f0b06": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:03:06.237016",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:03:10.563256",
-    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld_2025-06-15_3939.zip"
-  },
-  "f2f3142f-3bbc-44d5-b031-a1afa62ed4b4": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:03:14.380730",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:03:18.549010",
-    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld_2025-06-15_3938.zip"
-  },
-  "1a654e91-4737-45a4-b191-6a47c916430e": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:05:08.758241",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:05:13.456205",
-    "file_url": "/download-zip/report_SHRAMAN AUTOMOBILES_SHRAMAN AUTOMOBILES_2025-06-15_3935.zip"
-  },
-  "f6986752-de80-4c0b-b99d-f8ce8ac4d1cd": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:06:56.919359",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:07:02.097255",
-    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-15_3931.zip"
-  },
-  "fa42ba6c-a1c8-4b05-8b4d-58239ae945b8": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:09:47.526794",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:09:53.317028",
+    "updated_at": "2025-07-10T15:54:51.800648",
     "file_url": "/download-zip/report_PASHUPATI MOTORS_PASHUPATI MOTORS_2025-06-15_3930.zip"
   },
-  "f734b29a-2792-4716-a0b7-16d68e6a3165": {
+  "70d17fae-75f1-4a49-9782-7196d106dc04": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:10:05.575133",
+    "created_at": "2025-07-10T15:54:53.178915",
     "progress": 100,
-    "updated_at": "2025-07-10T16:10:09.524885",
+    "updated_at": "2025-07-10T15:54:57.656341",
     "file_url": "/download-zip/report_JAASODHA AUTO PVT LTD_JAASODHA AUTO PVT LTD_2025-06-15_3928.zip"
   },
-  "300afe19-48c4-4fdd-964d-9777b6103677": {
+  "455c6f0a-f308-46b7-b624-3b39eaccf20c": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:10:34.860460",
+    "created_at": "2025-07-10T16:04:04.258308",
     "progress": 100,
-    "updated_at": "2025-07-10T16:10:49.317832",
-    "file_url": "/download-zip/report_SEHGAL AUTOMOBILES_SEHGAL AUTOMOBILES_2025-06-15_3927.zip"
+    "updated_at": "2025-07-10T16:04:08.192944",
+    "file_url": "/download-zip/report_UPPER INDIA TRADING CO. PV. LTD_UPPER INDIA TRADING CO. PV. LTD_2025-06-15_3937.zip"
   },
-  "331c71c8-50f1-43bf-a5ad-47771a720f93": {
+  "ac26329c-e37e-44f9-9715-d7eed5549fe2": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:11:08.457785",
+    "created_at": "2025-07-10T16:04:15.783086",
     "progress": 100,
-    "updated_at": "2025-07-10T16:11:14.650317",
-    "file_url": "/download-zip/report_AMAN AUTOMOTIVES_AMAN AUTOMOTIVES_2025-06-15_3925.zip"
+    "updated_at": "2025-07-10T16:04:20.552551",
+    "file_url": "/download-zip/report_SHRAMAN AUTOMOBILES_SHRAMAN AUTOMOBILES_2025-06-15_3936.zip"
   },
-  "a34111ca-f498-4692-8a46-a224e92146b9": {
+  "c67a1185-be92-420f-a9a4-af7562129c17": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:11:35.319384",
+    "created_at": "2025-07-10T16:05:20.325319",
     "progress": 100,
-    "updated_at": "2025-07-10T16:11:50.380165",
-    "file_url": "/download-zip/report_SINGLA AGENCIES_SINGLA AGENCIES_2025-06-15_3923.zip"
+    "updated_at": "2025-07-10T16:05:32.380634",
+    "file_url": "/download-zip/report_SHIV GANGA AUTOMOBILES_SHIV GANGA AUTOMOBILES_2025-06-15_3934.zip"
   },
-  "107f346a-cc66-451b-ad5a-8a6a895e7d57": {
+  "288b9dd8-edbc-49d6-a433-d6f71bafc92d": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:11:56.891779",
+    "created_at": "2025-07-10T16:05:39.039412",
     "progress": 100,
-    "updated_at": "2025-07-10T16:12:04.402571",
-    "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3921.zip"
+    "updated_at": "2025-07-10T16:05:50.980510",
+    "file_url": "/download-zip/report_SHIV GANGA AUTOMOBILES_SHIV GANGA AUTOMOBILES_2025-06-15_3933.zip"
   },
-  "5978dd7c-520a-44d8-ac51-f623075af33c": {
+  "1d65368a-473f-4e3e-966b-8c9cd4157960": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:16:04.781115",
+    "created_at": "2025-07-10T16:05:59.022186",
     "progress": 100,
-    "updated_at": "2025-07-10T16:16:10.782996",
-    "file_url": "/download-zip/report_METRO MOTORS_METRO MOTORS_2025-06-15_3919.zip"
+    "updated_at": "2025-07-10T16:06:03.856709",
+    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-15_3932.zip"
   },
-  "e78c0d56-e245-4238-8d06-97595d2bfa2c": {
+  "1a20fd01-b176-466a-8d77-153b89596921": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:16:42.622781",
+    "created_at": "2025-07-10T16:09:52.862941",
     "progress": 100,
-    "updated_at": "2025-07-10T16:16:46.338007",
-    "file_url": "/download-zip/report_AUTO LINKS_AUTO LINKS_2025-06-15_3916.zip"
+    "updated_at": "2025-07-10T16:10:06.357901",
+    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
   },
-  "a5350424-5544-4a32-ba17-99c24a637060": {
+  "31900f87-e0d7-4284-b6e1-6a46f3e8bb6e": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:16:55.820661",
+    "created_at": "2025-07-10T16:10:51.005777",
     "progress": 100,
-    "updated_at": "2025-07-10T16:17:00.176888",
-    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES PVT LTD._HIMGIRI AUTOMOBILES PVT LTD._2025-06-15_3915.zip"
+    "updated_at": "2025-07-10T16:11:00.816213",
+    "file_url": "/download-zip/report_DHANSRI MOTOCORP_DHANSRI MOTOCORP_2025-06-15_3926.zip"
   },
-  "1bd3da84-d1e6-424d-a608-a7e3dde53d4f": {
+  "841e9427-54f8-47a4-a09d-c9cfcb894afc": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:17:10.236328",
+    "created_at": "2025-07-10T16:12:17.109224",
     "progress": 100,
-    "updated_at": "2025-07-10T16:17:21.065029",
-    "file_url": "/download-zip/report_SAHIB AUTOMOBILES_SAHIB AUTOMOBILES_2025-06-15_3913.zip"
+    "updated_at": "2025-07-10T16:12:24.024664",
+    "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3922.zip"
   },
-  "d5785817-0c60-424f-998e-11a1a9fdc5f6": {
+  "7fc7a818-7498-4f78-87bc-ff723122cf1a": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:17:29.017636",
+    "created_at": "2025-07-10T16:15:47.315252",
     "progress": 100,
-    "updated_at": "2025-07-10T16:17:39.775889",
-    "file_url": "/download-zip/report_SAHIB AUTOMOBILES_SAHIB AUTOMOBILES_2025-06-15_3914.zip"
+    "updated_at": "2025-07-10T16:15:53.273285",
+    "file_url": "/download-zip/report_METRO MOTORS_METRO MOTORS_2025-06-15_3920.zip"
   },
-  "bf14d2f6-7977-4a25-8176-5ab37467f677": {
+  "ffa2f0e7-1868-4354-b597-6985fb9dfbdb": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:18:48.542982",
+    "created_at": "2025-07-10T16:16:19.179239",
     "progress": 100,
-    "updated_at": "2025-07-10T16:18:56.177584",
-    "file_url": "/download-zip/report_SAPPHIRE BIKES_SAPPHIRE BIKES_2025-06-15_3912.zip"
+    "updated_at": "2025-07-10T16:16:24.471013",
+    "file_url": "/download-zip/report_KHANNA AUTOMOBILES_KHANNA AUTOMOBILES_2025-06-15_3918.zip"
   },
-  "6abf8b6e-283a-4a05-ab4c-58493644bc97": {
+  "c6a1320f-07bf-471b-a121-4ad702c2bf38": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:21:31.103415",
+    "created_at": "2025-07-10T16:16:28.939286",
     "progress": 100,
-    "updated_at": "2025-07-10T16:21:36.028258",
-    "file_url": "/download-zip/report_ARC MOTORS PVT LTD_ARC MOTORS PVT LTD_2025-06-15_3909.zip"
+    "updated_at": "2025-07-10T16:16:34.214263",
+    "file_url": "/download-zip/report_ESSAAY AGENCIES (I) PVT LTD._ESSAAY AGENCIES (I) PVT LTD._2025-06-15_3917.zip"
   },
-  "549dbb55-1628-41f2-8c7b-ef57a7785411": {
+  "b5830476-8a8c-468d-958c-76c8ca3c7863": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:21:46.645326",
+    "created_at": "2025-07-10T16:19:03.921103",
     "progress": 100,
-    "updated_at": "2025-07-10T16:21:51.658903",
-    "file_url": "/download-zip/report_ARC MOTORS PVT LTD_ARC MOTORS PVT LTD_2025-06-15_3908.zip"
+    "updated_at": "2025-07-10T16:19:08.089626",
+    "file_url": "/download-zip/report_R.K.AUTOMOBILES_R.K.AUTOMOBILES_2025-06-15_3911.zip"
   },
-  "bc208eb2-f74d-4c7b-b2b3-abf0d078360e": {
+  "14e3c464-f7c8-4dfd-a7fe-341c2231f500": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:22:18.437415",
+    "created_at": "2025-07-10T16:21:17.191390",
     "progress": 100,
-    "updated_at": "2025-07-10T16:22:33.272445",
-    "file_url": "/download-zip/report_SINGLA AUTO AGENCIES_SINGLA AUTO AGENCIES_2025-06-15_3906.zip"
+    "updated_at": "2025-07-10T16:21:22.135423",
+    "file_url": "/download-zip/report_ARC MOTORS PVT LTD_ARC MOTORS PVT LTD_2025-06-15_3910.zip"
   },
-  "e62a1a06-6ba4-4a1e-b11f-be9f16cc679d": {
+  "0e7953c1-f3cc-415b-90aa-90e187d3da72": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:23:00.210665",
+    "created_at": "2025-07-10T16:22:41.027997",
     "progress": 100,
-    "updated_at": "2025-07-10T16:23:08.896002",
-    "file_url": "/download-zip/report_GLOBE AGENCIES_GLOBE AGENCIES_2025-06-15_3904.zip"
+    "updated_at": "2025-07-10T16:22:50.275100",
+    "file_url": "/download-zip/report_UPPAL MOTORS (PVT) LTD_UPPAL MOTORS (PVT) LTD_2025-06-15_3905.zip"
   },
-  "31762c5d-535b-4768-8839-e4dfc7e62d2f": {
+  "e695a202-cb72-4f8c-8f73-e38dfd835c45": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:26:31.716329",
+    "created_at": "2025-07-10T16:24:53.517928",
     "progress": 100,
-    "updated_at": "2025-07-10T16:26:40.525035",
-    "file_url": "/download-zip/report_SAPPHIRE BIKES_SAPPHIRE BIKES_2025-06-13_3869.zip"
+    "updated_at": "2025-07-10T16:25:03.772163",
+    "file_url": "/download-zip/report_GLOBE AGENCIES_GLOBE AGENCIES_2025-06-14_3898.zip"
   },
-  "06875f62-a270-40cc-ab6c-be0ace130cde": {
+  "3b6c211d-31e0-45d8-b37f-74fe5ca6f067": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:26:44.992610",
+    "created_at": "2025-07-10T16:28:38.388006",
     "progress": 100,
-    "updated_at": "2025-07-10T16:26:49.760472",
-    "file_url": "/download-zip/report_R.K.AUTOMOBILES_R.K.AUTOMOBILES_2025-06-13_3868.zip"
+    "updated_at": "2025-07-10T16:28:43.328883",
+    "file_url": "/download-zip/report_AMAN MOTORS_AMAN MOTORS_2025-06-13_3865.zip"
   },
-  "eac669e1-6f47-42e5-a1c9-8e347aa16b0a": {
+  "fad08163-98ce-4436-80b7-6172f0d6e438": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:27:11.179459",
+    "created_at": "2025-07-10T16:29:08.123888",
     "progress": 100,
-    "updated_at": "2025-07-10T16:27:14.783290",
-    "file_url": "/download-zip/report_SHIV GANGA AUTOMOBILES_SHIV GANGA AUTOMOBILES_2025-06-13_3867.zip"
+    "updated_at": "2025-07-10T16:29:15.032441",
+    "file_url": "/download-zip/report_METRO MOTORS_METRO MOTORS_2025-06-13_3863.zip"
   },
-  "174ff7fb-fc6d-4f68-8ba1-b82f0ba98a77": {
+  "bcab7fec-db5e-426a-81bc-425a023fbdba": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:28:26.699526",
+    "created_at": "2025-07-10T16:29:17.353660",
     "progress": 100,
-    "updated_at": "2025-07-10T16:28:31.714481",
-    "file_url": "/download-zip/report_SINGLA AGENCIES_SINGLA AGENCIES_2025-06-13_3866.zip"
+    "updated_at": "2025-07-10T16:29:23.474543",
+    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-13_3862.zip"
   },
-  "6d659582-e769-42e6-ba27-1baf0bee95e6": {
+  "381ca08f-0dd1-4d9a-a740-43f0d29ea647": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:28:53.185841",
+    "created_at": "2025-07-10T16:31:14.728609",
     "progress": 100,
-    "updated_at": "2025-07-10T16:29:00.998213",
-    "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-13_3864.zip"
+    "updated_at": "2025-07-10T16:31:19.498989",
+    "file_url": "/download-zip/report_KHANNA AUTOMOBILES_KHANNA AUTOMOBILES_2025-06-13_3860.zip"
   },
-  "a7b024da-eb84-4218-b222-43ce9c51a410": {
+  "fe0de084-8e6f-49df-b0e1-90a195be6d92": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:30:45.806953",
+    "created_at": "2025-07-10T16:36:46.646632",
     "progress": 100,
-    "updated_at": "2025-07-10T16:30:50.124969",
-    "file_url": "/download-zip/report_ARC MOTORS PVT LTD_ARC MOTORS PVT LTD_2025-06-13_3861.zip"
+    "updated_at": "2025-07-10T16:36:52.127987",
+    "file_url": "/download-zip/report_Autoneed Gurgoan_Autoneed Gurgoan_2025-06-13_3856.zip"
   },
-  "8611c18b-6508-4a48-8ee3-ed58424e4631": {
+  "3c9d7060-0ea6-423e-9dbd-90800228ced6": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:34:11.605509",
+    "created_at": "2025-07-10T16:37:04.138283",
     "progress": 100,
-    "updated_at": "2025-07-10T16:34:16.113813",
-    "file_url": "/download-zip/report_ESSAAY AGENCIES (I) PVT LTD._ESSAAY AGENCIES (I) PVT LTD._2025-06-13_3859.zip"
-  },
-  "89ce4016-b59e-4aae-a9fa-36ca0f7582e0": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:34:21.579617",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:34:26.677307",
-    "file_url": "/download-zip/report_PASHUPATI MOTORS_PASHUPATI MOTORS_2025-06-13_3858.zip"
-  },
-  "bf134c1d-6464-4ae4-8e3b-48a47e7feb86": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:34:35.937956",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:34:50.694050",
-    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-13_3857.zip"
-  },
-  "32140c4d-36ac-4c89-9148-474016d6706e": {
-    "status": "completed",
-    "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:36:57.485873",
-    "progress": 100,
-    "updated_at": "2025-07-10T16:37:01.667728",
+    "updated_at": "2025-07-10T16:37:08.295333",
     "file_url": "/download-zip/report_AUTO LINKS_AUTO LINKS_2025-06-13_3855.zip"
   },
-  "6731d3c5-8c4d-41fa-8da1-315bc2040a5f": {
+  "e41be12d-32ba-4f04-b767-e8272233f6ed": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:42:26.202612",
+    "created_at": "2025-07-10T16:41:50.316989",
     "progress": 100,
-    "updated_at": "2025-07-10T16:42:46.485126",
-    "file_url": "/download-zip/report_sehgal Automobiles_sehgal Automobiles_2025-06-13_3851.zip"
+    "updated_at": "2025-07-10T16:41:57.254756",
+    "file_url": "/download-zip/report_SHARMA AGENCIES_SHARMA AGENCIES_2025-06-13_3854.zip"
   },
-  "402c8d07-9f8f-4d29-8a3c-e3465b4aabd1": {
+  "946d7ebe-b237-42b2-af7f-01f1e088a487": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-10T16:42:47.131497",
+    "created_at": "2025-07-10T16:41:59.429510",
     "progress": 100,
-    "updated_at": "2025-07-10T16:42:52.647856",
-    "file_url": "/download-zip/report_DHANSRI MOTOCORP_DHANSRI MOTOCORP_2025-06-13_3850.zip"
+    "updated_at": "2025-07-10T16:42:11.115416",
+    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES PVT LTD._HIMGIRI AUTOMOBILES PVT LTD._2025-06-13_3853.zip"
+  },
+  "77db5781-5d2a-4f50-9251-f937c41cd406": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:42:14.252804",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:42:20.029497",
+    "file_url": "/download-zip/report_JAASODHA AUTO_JAASODHA AUTO_2025-06-13_3852.zip"
+  },
+  "8b8dda60-1584-406a-9f87-f261b640b0d7": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:44:41.350325",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:44:46.273582",
+    "file_url": "/download-zip/report_SINGLA AUTO AGENCIES_SINGLA AUTO AGENCIES_2025-06-13_3848.zip"
+  },
+  "4792e7bd-a262-479a-9be1-c2e705d329e3": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:44:53.916365",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:45:00.040397",
+    "file_url": "/download-zip/report_UPPAL MOTORS_UPPAL MOTORS_2025-06-13_3846.zip"
   }
 }
