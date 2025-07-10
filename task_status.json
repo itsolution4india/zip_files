@@ -173,5 +173,13 @@
     "progress": 100,
     "updated_at": "2025-07-10T15:41:11.658975",
     "file_url": "/download-zip/report_JAASODHA AUTO PVT LTD_JAASODHA AUTO PVT LTD_2025-06-15_3928.zip"
+  },
+  "8153693e-e731-4514-ac11-be4f795593d1": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:48:56.011096",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:49:09.435599",
+    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
   }
 }
