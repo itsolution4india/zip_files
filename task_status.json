@@ -619,5 +619,37 @@
     "progress": 100,
     "updated_at": "2025-07-10T17:46:04.059138",
     "file_url": "/download-zip/report_Sehgal Automobiles_Sehgal Automobiles_2025-06-10_3731.zip"
+  },
+  "e7ca29e8-11c3-42da-a7f7-837528e7b99e": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:48:50.039870",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:48:59.769064",
+    "file_url": "/download-zip/report_Pashupati Motors_Pashupati Motors_2025-06-10_3727.zip"
+  },
+  "b8abdbc1-410d-46e8-b9c6-82f0997d1070": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:49:21.053385",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:49:28.636860",
+    "file_url": "/download-zip/report_Ess Aay Agencies_Ess Aay Agencies_2025-06-10_3725.zip"
+  },
+  "c5b70011-9c93-46ed-9f69-957edcb43048": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:49:36.835043",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:49:45.633548",
+    "file_url": "/download-zip/report_Jaasodha Autos_Jaasodha Autos_2025-06-10_3722.zip"
+  },
+  "274118a3-44a0-46a7-8fe5-96c68d562cf0": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:51:38.799162",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:51:47.647048",
+    "file_url": "/download-zip/report_Auto Needs_Auto Needs_2025-06-10_3718.zip"
   }
 }
