@@ -1,0 +1,169 @@
+{
+  "a58ed193-b6d3-417c-b700-05f1b4366883": {
+    "status": "processing",
+    "message": "Executing database query...",
+    "created_at": "2025-07-10T13:05:26.906402",
+    "progress": 55,
+    "updated_at": "2025-07-10T13:05:26.930402"
+  },
+  "643c34ab-a570-4efa-bd6e-f396c0dfde67": {
+    "status": "processing",
+    "message": "Processing missing contacts...",
+    "created_at": "2025-07-10T13:31:16.371706",
+    "progress": 80,
+    "updated_at": "2025-07-10T13:31:20.937470"
+  },
+  "1d0f13d5-7a80-4b19-aabb-a7025cb07e23": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T13:49:27.552502",
+    "progress": 100,
+    "updated_at": "2025-07-10T13:49:37.523126",
+    "file_url": "/download-zip/report_3912_1d0f13d5-7a80-4b19-aabb-a7025cb07e23.zip"
+  },
+  "6c7cc33f-bc70-4b97-bd1f-3a3612bcee18": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:49:42.299437",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:49:47.901306"
+  },
+  "d92fbe8f-12fa-42d4-a853-5853b63f2e55": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:49:49.993835",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:49:53.856429"
+  },
+  "0f65d732-d587-4405-a5b7-c046baaf6f6a": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:49:54.504609",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:49:59.635761"
+  },
+  "827f92af-b931-4379-848c-a291bff77edd": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:50:05.531170",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:50:11.129074"
+  },
+  "e1d0bfb2-deb0-4c6a-9363-ec54fe244747": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:51:53.099886",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:52:01.523476"
+  },
+  "7005cb77-9b51-4842-b074-ea899049e79a": {
+    "status": "failed",
+    "message": "Error generating report: (1054, \"Unknown column 'new_status' in 'where clause'\")",
+    "created_at": "2025-07-10T13:52:13.703233",
+    "progress": 0,
+    "updated_at": "2025-07-10T13:52:18.834183"
+  },
+  "eb21f755-dd86-4c34-ab3e-ba70a30cc1f3": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T13:54:23.955216",
+    "progress": 100,
+    "updated_at": "2025-07-10T13:54:30.361986",
+    "file_url": "/download-zip/report_3856_eb21f755-dd86-4c34-ab3e-ba70a30cc1f3.zip"
+  },
+  "50d460a0-c15b-4c59-aafd-60f3e2d363bb": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T13:55:44.658071",
+    "progress": 100,
+    "updated_at": "2025-07-10T13:55:49.871458",
+    "file_url": "/download-zip/report_3849_50d460a0-c15b-4c59-aafd-60f3e2d363bb.zip"
+  },
+  "d6a29cc4-8f31-4abc-989c-a36347bd2eb1": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T14:31:19.264124",
+    "progress": 100,
+    "updated_at": "2025-07-10T14:31:23.387460",
+    "file_url": "/download-zip/report_3937_d6a29cc4-8f31-4abc-989c-a36347bd2eb1.zip"
+  },
+  "7f18d29f-c204-4e7e-9401-b212de3726ab": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T14:48:20.196344",
+    "progress": 100,
+    "updated_at": "2025-07-10T14:48:25.369593",
+    "file_url": "/download-zip/report_3866_7f18d29f-c204-4e7e-9401-b212de3726ab.zip"
+  },
+  "611aba7f-f17e-4100-bdb3-0378dfbb585a": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T14:48:29.871442",
+    "progress": 100,
+    "updated_at": "2025-07-10T14:48:38.852331",
+    "file_url": "/download-zip/report_3864_611aba7f-f17e-4100-bdb3-0378dfbb585a.zip"
+  },
+  "526c6d4a-ed88-42a0-a80b-fce7d1eee4b9": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T14:58:53.008730",
+    "progress": 100,
+    "updated_at": "2025-07-10T14:58:57.931560",
+    "file_url": "/download-zip/report_SINGLA AGENCIES_SINGLA AGENCIES_2025-06-13 16:42:36+00:00.zip"
+  },
+  "f4e77a2b-8643-44d9-8b7a-82593b34b46c": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:12:30.545760",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:12:36.626021",
+    "file_url": "/download-zip/report_AMAN MOTORS_AMAN MOTORS.zip"
+  },
+  "25ccf826-bc71-4d55-ba4c-459e4ecf3151": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:12:52.072029",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:12:56.624645",
+    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld.zip"
+  },
+  "face138b-0084-48ce-95a3-0c365e0932d1": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:12:57.140906",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:13:01.585372",
+    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld.zip"
+  },
+  "824493e3-49e8-4f85-b35e-9c35f69c76cd": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:13:19.610516",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:13:23.951625",
+    "file_url": "/download-zip/report_UPPER INDIA TRADING CO. PV. LTD_UPPER INDIA TRADING CO. PV. LTD.zip"
+  },
+  "2cbc9898-88cb-44fe-9ad6-69b4bbf8797c": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:13:27.870699",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:13:32.864034",
+    "file_url": "/download-zip/report_SHRAMAN AUTOMOBILES_SHRAMAN AUTOMOBILES.zip"
+  },
+  "0b70d805-ecbf-4e84-86b7-609d6e8a6496": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:13:50.817672",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:13:55.875131",
+    "file_url": "/download-zip/report_SHRAMAN AUTOMOBILES_SHRAMAN AUTOMOBILES.zip"
+  },
+  "f3e9933c-6357-43ad-9520-62d88db665aa": {
+    "status": "failed",
+    "message": "Error generating report: 'str' object has no attribute 'date'",
+    "created_at": "2025-07-10T15:18:56.901262",
+    "progress": 0,
+    "updated_at": "2025-07-10T15:19:01.000764"
+  }
+}
