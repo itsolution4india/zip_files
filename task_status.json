@@ -397,5 +397,37 @@
     "progress": 100,
     "updated_at": "2025-07-10T16:45:00.040397",
     "file_url": "/download-zip/report_UPPAL MOTORS_UPPAL MOTORS_2025-06-13_3846.zip"
+  },
+  "4bba1042-797d-47f3-a907-1e6909e66302": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:47:51.891880",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:48:00.908188",
+    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-06-12_3824.zip"
+  },
+  "c22f69ee-749d-4afd-b3b7-4cfe5fc6fd36": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:48:03.866787",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:48:20.632132",
+    "file_url": "/download-zip/report_Himgiri Automobiles_Himgiri Automobiles_2025-06-12_3823.zip"
+  },
+  "72de2b4d-d625-45a3-9c91-f7a98cc4e93a": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:50:13.878932",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:50:20.397148",
+    "file_url": "/download-zip/report_Autoneed Gurgaon_Autoneed Gurgaon_2025-06-12_3820.zip"
+  },
+  "34b124fd-b0ff-44d6-acd0-71d6e6f875fa": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:51:55.659789",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:52:10.013164",
+    "file_url": "/download-zip/report_Dhansari Motocorp_Dhansari Motocorp_2025-06-12_3817.zip"
   }
 }
