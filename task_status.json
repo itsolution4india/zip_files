@@ -579,5 +579,45 @@
     "created_at": "2025-07-10T17:29:50.006600",
     "progress": 76,
     "updated_at": "2025-07-10T17:30:09.882601"
+  },
+  "1eb0997d-830c-478c-84ac-f32d5d945cab": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:42:25.977031",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:42:48.220949",
+    "file_url": "/download-zip/report_Himgiri Delhi_Himgiri Delhi_2025-06-10_3742.zip"
+  },
+  "9733de20-19ae-404d-b4ff-0bf734178c07": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:44:01.426581",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:44:11.329709",
+    "file_url": "/download-zip/report_Sapphire Bikes_Sapphire Bikes_2025-06-10_3738.zip"
+  },
+  "3dc57a74-7438-4cbf-8c59-cde8bac423fa": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:44:11.492909",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:44:22.414027",
+    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-06-10_3737.zip"
+  },
+  "9b8810e9-2bd8-4085-8de9-06f652e822d6": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:45:07.103472",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:45:19.516079",
+    "file_url": "/download-zip/report_Uppal Motors_Uppal Motors_2025-06-10_3735.zip"
+  },
+  "7f9e7d34-b0a9-4018-90de-f3b0fc4de6cf": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T17:45:35.778409",
+    "progress": 100,
+    "updated_at": "2025-07-10T17:46:04.059138",
+    "file_url": "/download-zip/report_Sehgal Automobiles_Sehgal Automobiles_2025-06-10_3731.zip"
   }
 }
