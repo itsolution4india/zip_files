@@ -197,5 +197,53 @@
     "progress": 100,
     "updated_at": "2025-07-10T15:55:05.098035",
     "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
+  },
+  "9a766759-22e6-4814-81ca-a7d83b1fce50": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:02:45.454465",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:02:52.414981",
+    "file_url": "/download-zip/report_AMAN MOTORS_AMAN MOTORS_2025-06-15_3941.zip"
+  },
+  "b33291e7-b0eb-4a90-b890-9eea4a3569f7": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:02:58.288318",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:03:03.246753",
+    "file_url": "/download-zip/report_SHARMA AGENCIES_SHARMA AGENCIES_2025-06-15_3940.zip"
+  },
+  "7a0ec974-046d-4fc1-a2ae-615b3b0f0b06": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:03:06.237016",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:03:10.563256",
+    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld_2025-06-15_3939.zip"
+  },
+  "f2f3142f-3bbc-44d5-b031-a1afa62ed4b4": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:03:14.380730",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:03:18.549010",
+    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld_2025-06-15_3938.zip"
+  },
+  "1a654e91-4737-45a4-b191-6a47c916430e": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:05:08.758241",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:05:13.456205",
+    "file_url": "/download-zip/report_SHRAMAN AUTOMOBILES_SHRAMAN AUTOMOBILES_2025-06-15_3935.zip"
+  },
+  "f6986752-de80-4c0b-b99d-f8ce8ac4d1cd": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T16:06:56.919359",
+    "progress": 100,
+    "updated_at": "2025-07-10T16:07:02.097255",
+    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-15_3931.zip"
   }
 }
