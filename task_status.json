@@ -181,5 +181,21 @@
     "progress": 100,
     "updated_at": "2025-07-10T15:49:09.435599",
     "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
+  },
+  "064d7c7a-38e8-43d1-b958-a3073f4b7700": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:54:38.151338",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:54:43.076072",
+    "file_url": "/download-zip/report_SINGLA AUTOMOBILES_SINGLA AUTOMOBILES_2025-06-15_3931.zip"
+  },
+  "3c5b5410-9406-41dc-8155-73534424f0c6": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-10T15:54:51.323314",
+    "progress": 100,
+    "updated_at": "2025-07-10T15:55:05.098035",
+    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES (P) LTD._HIMGIRI AUTOMOBILES (P) LTD._2025-06-15_3929.zip"
   }
 }
