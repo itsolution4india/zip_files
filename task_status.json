@@ -1814,5 +1814,28 @@
     "progress": 100,
     "updated_at": "2025-07-11T17:34:28.884520",
     "file_url": "/download-zip/report_METRO MOTORS_METRO MOTORS_2025-06-15_3919.zip"
+  },
+  "e1f3b5b0-ac97-4399-96f8-f4426900f65e": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T17:39:14.478534",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:39:15.605539",
+    "stats": {
+      "delivered": 7808,
+      "sent": 1,
+      "read": 0,
+      "failed": 3586,
+      "reply": 0,
+      "no_data": 488
+    }
+  },
+  "dd9fe08b-d50e-41a4-98e9-45b2b9981cdc": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T17:39:33.008021",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:39:38.283077",
+    "file_url": "/download-zip/report_KHANNA AUTOMOBILES_KHANNA AUTOMOBILES_2025-06-15_3918.zip"
   }
 }
