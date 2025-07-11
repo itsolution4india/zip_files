@@ -1777,27 +1777,42 @@
       "no_data": 137
     }
   },
-  "55ca83ce-92c0-44a9-9b04-dd037fb3866c": {
+  "152796f0-7e3e-4eb1-9853-b7f12d790c47": {
     "status": "completed",
     "message": "Insights generated successfully",
-    "created_at": "2025-07-11T17:16:23.165622",
+    "created_at": "2025-07-11T17:15:12.187586",
     "progress": 100,
-    "updated_at": "2025-07-11T17:16:26.782106",
+    "updated_at": "2025-07-11T17:15:15.539669",
     "stats": {
-      "delivered": 19535,
-      "sent": 3,
+      "delivered": 21751,
+      "sent": 1,
       "read": 0,
-      "failed": 9299,
-      "reply": 0,
-      "no_data": 135
+      "failed": 11897,
+      "reply": 1,
+      "no_data": 2413
     }
   },
-  "63950239-dfa3-4e94-b774-37875120ccad": {
+  "59f5c369-c321-4210-92d5-2fc2fffd2387": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T17:15:43.607640",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:15:44.800913",
+    "stats": {
+      "delivered": 6823,
+      "sent": 0,
+      "read": 0,
+      "failed": 2051,
+      "reply": 0,
+      "no_data": 0
+    }
+  },
+  "6c6c77f8-bdf6-4c32-999d-fba5335982ef": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T17:17:24.195864",
+    "created_at": "2025-07-11T17:34:22.858450",
     "progress": 100,
-    "updated_at": "2025-07-11T17:17:33.698726",
-    "file_url": "/download-zip/report_SAHIB AUTOMOBILES_SAHIB AUTOMOBILES_2025-06-16_3975.zip"
+    "updated_at": "2025-07-11T17:34:28.884520",
+    "file_url": "/download-zip/report_METRO MOTORS_METRO MOTORS_2025-06-15_3919.zip"
   }
 }
