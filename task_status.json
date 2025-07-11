@@ -1837,5 +1837,13 @@
     "progress": 100,
     "updated_at": "2025-07-11T17:39:38.283077",
     "file_url": "/download-zip/report_KHANNA AUTOMOBILES_KHANNA AUTOMOBILES_2025-06-15_3918.zip"
+  },
+  "6e6c25cb-9386-4005-b435-eb70df0946fb": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T17:48:22.764388",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:48:30.167882",
+    "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3922.zip"
   }
 }
