@@ -1655,5 +1655,149 @@
     "progress": 100,
     "updated_at": "2025-07-11T13:33:05.496677",
     "file_url": "/download-zip/report_Admin Testing_Admin Testing_2025-05-25_3248.zip"
+  },
+  "3f37b470-2064-4c68-a8d3-7c60302fc56e": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T15:33:29.708266",
+    "progress": 100,
+    "updated_at": "2025-07-11T15:33:30.133484",
+    "file_url": "/download-zip/report_JAASODHA AUTO PVT LTD_JAASODHA AUTO PVT LTD_2025-07-09_4910.zip"
+  },
+  "892497a4-a32a-43f8-a076-37a57807b7bc": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T15:33:53.109783",
+    "progress": 100,
+    "updated_at": "2025-07-11T15:33:55.256942",
+    "file_url": "/download-zip/report_AMAN MOTORS_AMAN MOTORS_2025-07-08_4885.zip"
+  },
+  "e4fa620b-ef3c-4b57-9452-52cf16b40e6b": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T15:48:38.223267",
+    "progress": 100,
+    "updated_at": "2025-07-11T15:48:39.222022",
+    "stats": {
+      "delivered": 0,
+      "sent": 0,
+      "read": 0,
+      "failed": 8508,
+      "reply": 0,
+      "no_data": 4650
+    }
+  },
+  "abcdd5b3-1fc9-43d8-afec-8e77df3bf490": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T15:49:35.094697",
+    "progress": 100,
+    "updated_at": "2025-07-11T15:49:35.458677",
+    "stats": {
+      "delivered": 0,
+      "sent": 0,
+      "read": 0,
+      "failed": 5708,
+      "reply": 0,
+      "no_data": 4575
+    }
+  },
+  "6bbc2c27-58f7-487c-a3b9-bab3bc20be02": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T16:10:33.541283",
+    "progress": 100,
+    "updated_at": "2025-07-11T16:10:38.760790",
+    "stats": {
+      "delivered": 0,
+      "sent": 0,
+      "read": 2,
+      "failed": 1,
+      "reply": 0,
+      "no_data": 0
+    }
+  },
+  "ba7fd536-0b34-47da-a779-b4a1da944cba": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T16:19:06.010455",
+    "progress": 100,
+    "updated_at": "2025-07-11T16:19:12.758990",
+    "stats": {
+      "delivered": 12949,
+      "sent": 0,
+      "read": 0,
+      "failed": 6125,
+      "reply": 0,
+      "no_data": 6
+    }
+  },
+  "c0082a9e-03ec-49c0-bd17-72150a86d673": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T16:21:40.345279",
+    "progress": 100,
+    "updated_at": "2025-07-11T16:21:45.489552",
+    "stats": {
+      "delivered": 7750,
+      "sent": 3,
+      "read": 0,
+      "failed": 2169,
+      "reply": 0,
+      "no_data": 0
+    }
+  },
+  "0705d2a7-5073-49ca-a95e-c63d4c0285a5": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T16:55:06.642541",
+    "progress": 100,
+    "updated_at": "2025-07-11T16:55:08.612848",
+    "stats": {
+      "delivered": 0,
+      "sent": 41941,
+      "read": 0,
+      "failed": 63,
+      "reply": 0,
+      "no_data": 63
+    }
+  },
+  "b19eb556-b5c9-498f-8ad9-d3aae0db02c9": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T16:55:50.478937",
+    "progress": 100,
+    "updated_at": "2025-07-11T16:55:57.481513",
+    "stats": {
+      "delivered": 0,
+      "sent": 145744,
+      "read": 0,
+      "failed": 137,
+      "reply": 0,
+      "no_data": 137
+    }
+  },
+  "55ca83ce-92c0-44a9-9b04-dd037fb3866c": {
+    "status": "completed",
+    "message": "Insights generated successfully",
+    "created_at": "2025-07-11T17:16:23.165622",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:16:26.782106",
+    "stats": {
+      "delivered": 19535,
+      "sent": 3,
+      "read": 0,
+      "failed": 9299,
+      "reply": 0,
+      "no_data": 135
+    }
+  },
+  "63950239-dfa3-4e94-b774-37875120ccad": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T17:17:24.195864",
+    "progress": 100,
+    "updated_at": "2025-07-11T17:17:33.698726",
+    "file_url": "/download-zip/report_SAHIB AUTOMOBILES_SAHIB AUTOMOBILES_2025-06-16_3975.zip"
   }
 }
