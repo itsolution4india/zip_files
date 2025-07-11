@@ -1273,5 +1273,60 @@
     "progress": 100,
     "updated_at": "2025-07-11T13:04:54.291723",
     "file_url": "/download-zip/report_Globe Agencies 1_Globe Agencies 1_2025-05-31_3440.zip"
+  },
+  "ae76e9cf-af54-4196-88cd-79bfcd0ea9d2": {
+    "status": "processing",
+    "message": "Processing batch 21/37...",
+    "created_at": "2025-07-11T13:06:09.184241",
+    "progress": 57,
+    "updated_at": "2025-07-11T13:06:24.544273"
+  },
+  "d492c2f9-914b-4e27-ae99-18e9c0888b12": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:06:44.845341",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:06:58.400353",
+    "file_url": "/download-zip/report_Dhansri Motocorp_Dhansri Motocorp_2025-05-29_3416.zip"
+  },
+  "9076c303-abfc-4840-b849-4326761abb09": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:07:05.515290",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:07:12.920436",
+    "file_url": "/download-zip/report_Globe Agencies_Globe Agencies_2025-05-29_3410.zip"
+  },
+  "3acf3435-8fb4-4788-91b6-c3f10598ada1": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:07:15.048359",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:07:19.200295",
+    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-05-29_3409.zip"
+  },
+  "55576125-7721-4635-8691-0a99f0835e07": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:07:28.787642",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:07:34.015026",
+    "file_url": "/download-zip/report_Jaasodha_Jaasodha_2025-05-29_3406.zip"
+  },
+  "2c58a75d-6424-4cd2-b1ee-50aa5aaaddfa": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:07:46.946491",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:07:57.688240",
+    "file_url": "/download-zip/report_Auto Needs_Auto Needs_2025-05-29_3403.zip"
+  },
+  "42abc46a-4c10-43af-a775-407420fa7297": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T13:08:10.253646",
+    "progress": 100,
+    "updated_at": "2025-07-11T13:08:10.278429",
+    "file_url": "/download-zip/report_Globe Agencies_Globe Agencies_2025-05-29_3383.zip"
   }
 }
