@@ -947,5 +947,61 @@
     "progress": 100,
     "updated_at": "2025-07-11T12:39:37.927598",
     "file_url": "/download-zip/report_Uppal Motors_Uppal Motors_2025-06-03_3559.zip"
+  },
+  "5c19bd71-298d-484b-a82b-b4d91d10becd": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:41:49.157434",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:41:53.972160",
+    "file_url": "/download-zip/report_Shraman Automobiles_Shraman Automobiles_2025-06-02_3544.zip"
+  },
+  "1addc9fc-f264-42b6-b860-68745f1cff25": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:42:01.746481",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:42:09.414977",
+    "file_url": "/download-zip/report_Himgiri Delhi_Himgiri Delhi_2025-06-02_3542.zip"
+  },
+  "366c3921-e64b-451a-a517-dd827cbc1a9d": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:42:23.888276",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:42:31.338887",
+    "file_url": "/download-zip/report_R.K. Automobiles_R.K. Automobiles_2025-06-02_3539.zip"
+  },
+  "4dd9299b-a621-4367-a0e0-3ac5d2fe3201": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:42:33.223375",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:42:39.330206",
+    "file_url": "/download-zip/report_Shiv Ganga Automobiles_Shiv Ganga Automobiles_2025-06-02_3538.zip"
+  },
+  "d816dd26-065d-4800-ae76-19144a9aa627": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:42:42.921563",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:42:50.290054",
+    "file_url": "/download-zip/report_Singla Agencies_Singla Agencies_2025-06-02_3537.zip"
+  },
+  "54ff09dc-9c0d-4f0e-aee6-213a1f6d8bf2": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:42:52.600187",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:42:59.366892",
+    "file_url": "/download-zip/report_Aman Motors_Aman Motors_2025-06-02_3536.zip"
+  },
+  "20a9f47e-05b6-4daa-895c-1452fed7b9f8": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:43:02.326470",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:43:09.060256",
+    "file_url": "/download-zip/report_Avni Motors_Avni Motors_2025-06-02_3535.zip"
   }
 }
