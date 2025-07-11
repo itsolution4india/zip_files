@@ -1053,58 +1053,67 @@
     "file_url": "/download-zip/report_Dhansri Motocorp_Dhansri Motocorp_2025-06-02_3525.zip"
   },
   "d50bff2c-1b81-4eeb-afc4-9cfac1e6ee1b": {
-    "status": "processing",
-    "message": "Processing batch 5/5...",
+    "status": "completed",
+    "message": "Report generated successfully",
     "created_at": "2025-07-11T12:49:25.075818",
-    "progress": 70,
-    "updated_at": "2025-07-11T12:49:32.790082"
+    "progress": 100,
+    "updated_at": "2025-07-11T12:49:33.609382",
+    "file_url": "/download-zip/report_Auto Needs_Auto Needs_2025-06-02_3528.zip"
   },
-  "d957fe8b-d341-4c1e-ae11-bbaea4b30568": {
+  "3ff6ecac-6267-49df-95a8-666ebd1cc883": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:49:47.845617",
+    "created_at": "2025-07-11T12:49:59.811175",
     "progress": 100,
-    "updated_at": "2025-07-11T12:49:55.475017",
-    "file_url": "/download-zip/report_Aman Automotive_Aman Automotive_2025-06-02_3527.zip"
+    "updated_at": "2025-07-11T12:50:09.662401",
+    "file_url": "/download-zip/report_Singla Auto Agencies_Singla Auto Agencies_2025-06-02_3526.zip"
   },
-  "9cbc4505-3ece-47c3-9d7b-956f64a520bc": {
+  "5447b148-c8e7-4b5d-a551-25e3402fd803": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:50:11.593310",
+    "created_at": "2025-07-11T12:51:57.273253",
     "progress": 100,
-    "updated_at": "2025-07-11T12:50:20.352020",
-    "file_url": "/download-zip/report_Dhansri Motocorp_Dhansri Motocorp_2025-06-02_3525.zip"
+    "updated_at": "2025-07-11T12:52:03.694872",
+    "file_url": "/download-zip/report_Ess Aay Agencies_Ess Aay Agencies_2025-06-02_3522.zip"
   },
-  "abd0f991-6374-417d-9ca5-c32aaaf45ae7": {
+  "3f69949a-3375-4e4c-995a-26c72a60f1bf": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:51:37.718074",
+    "created_at": "2025-07-11T12:52:15.906141",
     "progress": 100,
-    "updated_at": "2025-07-11T12:51:46.732268",
-    "file_url": "/download-zip/report_Uppal Motors_Uppal Motors_2025-06-02_3524.zip"
+    "updated_at": "2025-07-11T12:52:23.531703",
+    "file_url": "/download-zip/report_Pashupati Motors_Pashupati Motors_2025-06-02_3520.zip"
   },
-  "158aefd0-30d1-4c9a-a396-0cf783e75936": {
+  "6095dd6e-1260-4bb8-b860-115781746e37": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:51:47.219779",
+    "created_at": "2025-07-11T12:54:12.285237",
     "progress": 100,
-    "updated_at": "2025-07-11T12:51:53.873172",
-    "file_url": "/download-zip/report_Khanna Automobiles_Khanna Automobiles_2025-06-02_3523.zip"
+    "updated_at": "2025-07-11T12:54:17.532764",
+    "file_url": "/download-zip/report_Singla Auto Needs_Singla Auto Needs_2025-05-31_3477.zip"
   },
-  "08ee0285-be12-4000-81ad-d2592881abd2": {
+  "7fc1b167-0e68-4167-af43-8bc80bce104c": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:52:08.111488",
+    "created_at": "2025-07-11T12:54:23.280763",
     "progress": 100,
-    "updated_at": "2025-07-11T12:52:18.074720",
-    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-06-02_3521.zip"
+    "updated_at": "2025-07-11T12:54:28.292604",
+    "file_url": "/download-zip/report_Singla Auto Needs_Singla Auto Needs_2025-05-31_3478.zip"
   },
-  "57cad7cb-da49-4c0b-bc9c-a1f8f4e01a17": {
+  "87d42e77-1866-4a1d-8fad-b4131685cbaf": {
     "status": "completed",
     "message": "Report generated successfully",
-    "created_at": "2025-07-11T12:52:23.216349",
+    "created_at": "2025-07-11T12:54:36.342331",
     "progress": 100,
-    "updated_at": "2025-07-11T12:52:30.629539",
-    "file_url": "/download-zip/report_ARC Motors_ARC Motors_2025-06-02_3519.zip"
+    "updated_at": "2025-07-11T12:54:42.957719",
+    "file_url": "/download-zip/report_JMD Autoworld_JMD Autoworld_2025-05-31_3475.zip"
+  },
+  "ca53dea9-dd7b-49e7-a9f0-de0ba342e3a1": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:55:28.809564",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:55:36.736231",
+    "file_url": "/download-zip/report_Singla Agencies_Singla Agencies_2025-05-31_3470.zip"
   }
 }
