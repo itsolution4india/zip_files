@@ -1074,5 +1074,37 @@
     "progress": 100,
     "updated_at": "2025-07-11T12:50:20.352020",
     "file_url": "/download-zip/report_Dhansri Motocorp_Dhansri Motocorp_2025-06-02_3525.zip"
+  },
+  "abd0f991-6374-417d-9ca5-c32aaaf45ae7": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:51:37.718074",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:51:46.732268",
+    "file_url": "/download-zip/report_Uppal Motors_Uppal Motors_2025-06-02_3524.zip"
+  },
+  "158aefd0-30d1-4c9a-a396-0cf783e75936": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:51:47.219779",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:51:53.873172",
+    "file_url": "/download-zip/report_Khanna Automobiles_Khanna Automobiles_2025-06-02_3523.zip"
+  },
+  "08ee0285-be12-4000-81ad-d2592881abd2": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:52:08.111488",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:52:18.074720",
+    "file_url": "/download-zip/report_Sharma Agencies_Sharma Agencies_2025-06-02_3521.zip"
+  },
+  "57cad7cb-da49-4c0b-bc9c-a1f8f4e01a17": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-11T12:52:23.216349",
+    "progress": 100,
+    "updated_at": "2025-07-11T12:52:30.629539",
+    "file_url": "/download-zip/report_ARC Motors_ARC Motors_2025-06-02_3519.zip"
   }
 }
