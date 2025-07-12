@@ -1860,5 +1860,98 @@
     "progress": 100,
     "updated_at": "2025-07-12T11:34:07.265766",
     "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3922.zip"
+  },
+  "7615b8cb-3843-4ca2-94b0-c61dedbcc96a": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T11:48:48.644156",
+    "progress": 0,
+    "updated_at": "2025-07-12T11:48:54.693766"
+  },
+  "bd246aad-fe88-42d3-9888-6aed6a868bde": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T11:49:25.355651",
+    "progress": 0,
+    "updated_at": "2025-07-12T11:49:29.021950"
+  },
+  "91a2e002-9963-4281-9f51-b65eff1f8775": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T11:52:08.868873",
+    "progress": 0,
+    "updated_at": "2025-07-12T11:52:15.837917"
+  },
+  "5c48c5d1-e961-47b8-8943-ccc7fa9deebe": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-12T12:06:46.439141",
+    "progress": 100,
+    "updated_at": "2025-07-12T12:06:50.686418",
+    "file_url": "/download-zip/report_HIMGIRI AUTOMOBILES PVT LTD._HIMGIRI AUTOMOBILES PVT LTD._2025-06-15_3915.zip"
+  },
+  "69bcc74e-a825-4019-a093-6c829f23f2ad": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:11:03.801489",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:11:13.796272"
+  },
+  "92e95377-01ad-46bd-9566-288733fb29ca": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:19:50.798794",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:19:50.913615"
+  },
+  "d27d0a6b-c6b3-4918-bc6c-9dae7796ab45": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:21:58.233237",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:21:58.349066"
+  },
+  "e4f9341d-a72e-4f4d-ac6e-4d666b650d8d": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:24:34.923785",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:24:35.036732"
+  },
+  "3befe5cb-02dd-4889-911e-c131c6c9fc88": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:25:21.074157",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:25:21.186329"
+  },
+  "46c4c315-e914-4a8f-987c-82896ee1db50": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:55:27.105390",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:55:28.058205"
+  },
+  "1e26c18a-41ea-4c12-bf53-8b036295330c": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:56:01.220711",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:56:01.618321"
+  },
+  "fcd43d9f-5860-4a2f-8f2f-54ecb4e12adf": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T12:56:42.159850",
+    "progress": 0,
+    "updated_at": "2025-07-12T12:56:44.112006"
+  },
+  "b5c5982e-5828-4105-b793-0a67271e2e09": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-12T12:57:09.890452",
+    "progress": 100,
+    "updated_at": "2025-07-12T12:57:11.887654",
+    "file_url": "/download-zip/report_GLOBE AGENCIES_GLOBE AGENCIES_2025-07-09_4909.zip"
   }
 }
