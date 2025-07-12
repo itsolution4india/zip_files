@@ -1845,5 +1845,20 @@
     "progress": 100,
     "updated_at": "2025-07-11T17:48:30.167882",
     "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3922.zip"
+  },
+  "be76f37b-f55f-47ae-b5f4-80726d9f035a": {
+    "status": "failed",
+    "message": "Error generating report: cannot access local variable 'zip_filename' where it is not associated with a value",
+    "created_at": "2025-07-12T11:32:10.631591",
+    "progress": 0,
+    "updated_at": "2025-07-12T11:32:17.864023"
+  },
+  "e6ed7d3f-f234-45fe-a105-5033a4ce20a0": {
+    "status": "completed",
+    "message": "Report generated successfully",
+    "created_at": "2025-07-12T11:34:00.061048",
+    "progress": 100,
+    "updated_at": "2025-07-12T11:34:07.265766",
+    "file_url": "/download-zip/report_AVNI MOTORS (I) PVT LTD_AVNI MOTORS (I) PVT LTD_2025-06-15_3922.zip"
   }
 }
